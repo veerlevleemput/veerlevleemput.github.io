@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to this website!
 
-You can use the [editor on GitHub](https://github.com/veerlevleemput/veerlevleemput.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Deze website zou gebruikt kunnen worden voor MVP's binnen Business Development. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
